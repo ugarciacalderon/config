@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to accounts service related local Apis"
+  contactDetails:
+    name: "Ulises GC QA - Lead"
+    email: "ugarciacalderon@gmail.com"
+  onCallSupport:
+    - 3244538123
+    - 5678977654

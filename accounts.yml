@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to accounts service related local Apis"
+  contactDetails:
+    name: "Ulises GC - Developer"
+    email: "ugarciacalderon@gmail.com"
+  onCallSupport:
+    - "7321738123"
+    - "3214354654"
