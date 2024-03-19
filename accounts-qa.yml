@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to accounts service related local Apis"
+  message: "Welcome to accounts service related Quality Apis"
   contactDetails:
-    name: "Ulises GC QA - Lead"
+    name: "Ulises GC Quality"
     email: "{cipher}c4a90d93ccef19dcf145044352d503871b1bbe39826670aff50bab01087ca581afcaf00cdf68c073fcc4883cea9bd9de"
   onCallSupport:
     - 3244538123
