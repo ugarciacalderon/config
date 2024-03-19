@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related prod APIs "
+  message: "Welcome to service loans related Production APIs "
   contactDetails:
-    name: "Pelias Sudhir - Product Owner"
+    name: "Ulises GC - Product Owner"
     email: "{cipher}c4a90d93ccef19dcf145044352d503871b1bbe39826670aff50bab01087ca581afcaf00cdf68c073fcc4883cea9bd9de"
   onCallSupport:
     - (723) 656-8709
