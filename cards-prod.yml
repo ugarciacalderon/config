@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 cards:
-  message: "Welcome to cards related production APIs from webhook v2"
+  message: "Welcome to cards related production APIs from webhook v2.1"
   contactDetails:
     name: "Sandra Harald - Production"
     email: "{cipher}c4a90d93ccef19dcf145044352d503871b1bbe39826670aff50bab01087ca581afcaf00cdf68c073fcc4883cea9bd9de"
