@@ -1,6 +1,18 @@
 build:
   version: "1.0"
 
+spring:
+  datasource:
+    url: "{cipher}2f567fb3df6127bba7ae2bac0f9445a6431388257fee3d75321f494ff3af1a68d1dd42005c58a8a3934dc936b9ebfe398e1d5522d658aab70fa14028db4de4cc7a8460d7d888596fef984b8b9ce76c42f07046ee2c5d4903c406ab38dd81f76a67b36059cb3a1966c7a3a5a363bf0425"
+    username: "{cipher}8bdcf2779583b8ef73b86a6a2b4cbac346a32c87284c1ab67f2ca996f96cc486"
+    password: "{cipher}eb01ac0a1f1d66afca92c59a064b9cc7afb5125b3d75570554271834cef987da"
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
 loans:
   message: "Welcome to service loans related Production APIs "
   contactDetails:
