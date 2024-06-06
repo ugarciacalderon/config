@@ -6,6 +6,7 @@ spring:
     url: jdbc:mysql://microservices.c7kaekmmqyel.us-east-2.rds.amazonaws.com/microservices
     username: admin
     password: adminadmin
+    driver-class-name: com.mysql.jdbc.Driver
   jpa:
     show-sql: true
     properties:
