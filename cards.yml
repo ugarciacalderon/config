@@ -1,11 +1,22 @@
 build:
-  version: "3.0"
+  version: "1.0"
+
+spring:
+  datasource:
+    url: jdbc:mysql://microservices.c7kaekmmqyel.us-east-2.rds.amazonaws.com/microservices
+    username: admin
+    password: adminadmin
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
 
 cards:
-  message: "Welcome to accounts service related Developer Apis"
+  message: "Welcome to cards service - Development Env"
   contactDetails:
     name: "Ulises GC - Developer"
-    email: "{cipher}c4a90d93ccef19dcf145044352d503871b1bbe39826670aff50bab01087ca581afcaf00cdf68c073fcc4883cea9bd9de"
+    email: "ugarciacalderon@gmail.com"
   onCallSupport:
     - "7321738123"
     - "3214354654"

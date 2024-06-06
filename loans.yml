@@ -1,11 +1,22 @@
 build:
   version: "2.0"
 
+spring:
+  datasource:
+    url: jdbc:mysql://microservices.c7kaekmmqyel.us-east-2.rds.amazonaws.com/microservices
+    username: admin
+    password: adminadmin
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
 loans:
-  message: "Welcome to EazyBank loans related local APIs "
+  message: "Welcome to loans service - Development Env"
   contactDetails:
-    name: "Amaal Grega - Developer"
-    email: "{cipher}c4a90d93ccef19dcf145044352d503871b1bbe39826670aff50bab01087ca581afcaf00cdf68c073fcc4883cea9bd9de"
+    name: "Ulises GC Prod - Lead"
+    email: "ugarciacalderon@gmail.com"
   onCallSupport:
-    - (452) 456-2176
-    - (546) 764-8934
+    - 1000238123
+    - 5631354654
