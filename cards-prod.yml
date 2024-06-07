@@ -14,10 +14,10 @@ spring:
         format_sql: true
 
 cards:
-  message: "Welcome to cards related production APIs from webhook v2.2"
+  message: "Welcome to cards service - Production Env"
   contactDetails:
-    name: "Sandra Harald - Production"
-    email: "{cipher}c4a90d93ccef19dcf145044352d503871b1bbe39826670aff50bab01087ca581afcaf00cdf68c073fcc4883cea9bd9de"
+    name: "Ulises GC Prod - Lead"
+    email: "ugarciacalderon@gmail.com"
   onCallSupport:
-    - (617) 432-2356
-    - (936) 564-8721
+    - 1000238123
+    - 5631354654

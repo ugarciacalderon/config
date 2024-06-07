@@ -14,10 +14,10 @@ spring:
         format_sql: true
 
 loans:
-  message: "Welcome to service loans related Quality APIs "
+  message: "Welcome to loans - Quality Env"
   contactDetails:
-    name: "Cyrano Marita - Quality"
-    email: "{cipher}c4a90d93ccef19dcf145044352d503871b1bbe39826670aff50bab01087ca581afcaf00cdf68c073fcc4883cea9bd9de"
+    name: "Ulises GC Prod - Lead"
+    email: "ugarciacalderon@gmail.com"
   onCallSupport:
-    - (785) 545-6565
-    - (853) 546-3467
+    - 1000238123
+    - 5631354654
